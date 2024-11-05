@@ -37,5 +37,3 @@ const start = async () => {
 };
 
 start();
-
-// Video at about 3:46:35
